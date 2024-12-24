@@ -4,7 +4,6 @@
 
 # Hi, I'm @noorafsha08 👋
 
-![Profile Banner](https://your-banner-url.com/banner.png)
 
 ## 💫 About Me:
 - 🛸 Web developer  
@@ -22,6 +21,21 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=noorafsha08&color=blue)
 
 ---
+## 🙋 Profile:
+
+<p align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=noorafsha08&icon=0&color=11)](https://visitcount.itsvg.in)
+
+
+  <a href="https://github.com/noorafsha08?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/divcs?color=yellow&logo=github">
+  </a>
+</p>
+
+---
+
+<br>
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -60,24 +74,4 @@
 ---
 
 
-
-## 🙋 Profile:
-
-<p align="left">
-  
-[![](https://visitcount.itsvg.in/api?id=divcs&icon=0&color=11)](https://visitcount.itsvg.in)
-
-
-  <a href="https://github.com/noorafsha08?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/divcs?color=yellow&logo=github">
-  </a>
-</p>
-
----
-
-<br>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=divcs&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
