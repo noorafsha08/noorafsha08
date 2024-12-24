@@ -7,7 +7,8 @@
 - 📂 Passionate about Open Source Projects  
 - ⚡ Fun fact: I love combining coding with creativity to build unique and colorful projects!
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?noorafsha08/noorafsha08 e&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?noorafsha08/noorafsha08&show_icons=true&theme=radical)
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?noorafsha08/noorafsha08&theme=radical)
 
