@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/noor-afsha-06612a216/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=Instagram&logoColor=white)](https://instagram.com/n00r_2110/profilecard/?igsh=NW1vcmF6YjZnYTRh)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000?style=for-the-badge&logo=codepen&logoColor=white)(https://www.hackerearth.com/@afshanoor0812/)
-![Visitor Count](https://komarev.com/ghpvc/?username=noorafsha08&color=blue)
+
 
 ---
 ## 🙋 Profile:
@@ -64,8 +64,8 @@
 ---
 
 ## 📧 Contact Me:
-- [Email](mailto:your-email@example.com)
-- [Portfolio](https://your-portfolio-url.com)
+- [Email](mailto:afshanoor0812@gmail.com)
+- [Portfolio](https://noorafsha08.netlify.app/)
 
 ## ☕ Support Me:
 - [Buy Me a Coffee](https://www.buymeacoffee.com/yourprofile)
