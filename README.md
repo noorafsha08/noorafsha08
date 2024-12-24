@@ -7,11 +7,10 @@
 - 📂 Passionate about Open Source Projects  
 - ⚡ Fun fact: I love combining coding with creativity to build unique and colorful projects!
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/noor-afsha-06612a216/)) 
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=Instagram&logoColor=white)](https://instagram.com/your-profile)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?noorafsha08/noorafsha08&show_icons=true&theme=radical)
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?noorafsha08/noorafsha08&theme=radical)
-
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
