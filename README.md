@@ -41,11 +41,4 @@
 
 ---
 
-## 📌 Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?noorafsha08/noorafsha08&repo=your-repo&theme=radical)](https://github.com/noorafsha08/noorafsha08)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?noorafsha08/noorafsha08&repo=another-repo&theme=radical)](https://github.com/noorafsha08/Leetcode-solutions)
-
----
-
-
 
