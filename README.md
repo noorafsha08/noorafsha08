@@ -23,7 +23,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@divcs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/divya-n-8a8196208) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@divcs)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@n00r_2110_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-afsha-06612a216/)) [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000?style=for-the-badge&logo=codepen&logoColor=white)]((https://www.hackerearth.com/@afshanoor0812/)
 
 ---
 
@@ -34,7 +34,7 @@
 [![](https://visitcount.itsvg.in/api?id=divcs&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
-  <a href="https://github.com/divcs?tab=followers">
+  <a href="https://github.com/noorafsha08?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/divcs?color=yellow&logo=github">
   </a>
 </p>
