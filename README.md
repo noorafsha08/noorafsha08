@@ -1,5 +1,7 @@
 # Hi, I'm @noorafsha08 👋
 
+![Profile Banner](https://your-banner-url.com/banner.png)
+
 ## 💫 About Me:
 - 🛸 Web developer  
 - 💬 Learning & Building  
@@ -12,6 +14,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/noor-afsha-06612a216/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=Instagram&logoColor=white)](https://instagram.com/n00r_2110/profilecard/?igsh=NW1vcmF6YjZnYTRh)
+![Visitor Count](https://komarev.com/ghpvc/?username=noorafsha08&color=blue)
 
 ---
 
@@ -26,13 +29,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?noorafsha08/noorafsha08&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?noorafsha08/noorafsha08&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorafsha08&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorafsha08&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?noorafsha08/noorafsha08&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=noorafsha08&theme=radical)
 
 ---
 
@@ -41,4 +44,11 @@
 
 ---
 
+## 📧 Contact Me:
+- [Email](mailto:afshanoor0812@gmail.com)
+- [Portfolio]](https://noorafsha08.netlify.app/))
+
+---
+
+![Footer Image](https://your-footer-image-url.com/footer.png)
 
