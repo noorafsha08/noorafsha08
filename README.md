@@ -22,17 +22,6 @@
 
 
 ---
-## 🙋 Profile:
-
-<p align="left">
-  
-[![](https://visitcount.itsvg.in/api?id=noorafsha08&icon=0&color=11)](https://visitcount.itsvg.in)
-
-
-  <a href="https://github.com/noorafsha08?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/divcs?color=yellow&logo=github">
-  </a>
-</p>
 
 ---
 
@@ -75,9 +64,6 @@
 - [Email](mailto:afshanoor0812@gmail.com)
 - [Portfolio](https://noorafsha08.netlify.app/)
 
-## ☕ Support Me:
-- [Buy Me a Coffee](https://www.buymeacoffee.com/yourprofile)
-- [Patreon](https://www.patreon.com/yourprofile)
 
 ---
 
