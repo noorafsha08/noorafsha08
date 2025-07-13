@@ -78,4 +78,4 @@ Here are some badges I earned for learning, building, and contributing consisten
 
 ---
 
-✨ *“✨ *“Let’s build something impactful together – in code, data, and product!”*
+✨ *“Let’s build something impactful together – in code, data, and product!”* ✨
