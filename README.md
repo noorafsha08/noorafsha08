@@ -1,17 +1,15 @@
 # 👋 Hi there, I’m Noor Afsha
 
-### 🚀 Turning ideas into reality with code & creativity
+### 🚀  Turning ideas into reality with code, data, and creativity
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=noorafsha08&style=flat-square&color=brightgreen)](https://github.com/noorafsha08)
-
 ## ✨ About Me
 
-- 💡 **Mission:** Build solutions that make life easier and learning fun  
-- 👩‍💻 **Currently learning:** React.js | Node.js | DSA for problem solving  
-- 🛠️ **Tech playground:** Combining frontend magic with backend logic  
-- 🌈 **Fun fact:** I love designing digital art and UIs alongside coding!
+- 💡 **Mission:** Build solutions that combine technology and data to make life easier and learning fun  
+- 👩‍💻 **Currently learning:** React.js | Node.js | DSA | Python for Data Science | Machine Learning  
+- 🔬 **Interests:** Software development, data analytics, AI/ML projects, and product analysis  
+- 🌈 **Fun fact:** I love designing digital art and UIs alongside exploring data patterns!
 
 ---
 
@@ -20,6 +18,10 @@
 Here are some badges I earned for learning, building, and contributing consistently:
 
 [![Holopin](https://holopin.me/noorafsha08)](https://holopin.io/@noorafsha08)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=noorafsha08&style=flat-square&color=brightgreen)](https://github.com/noorafsha08)
 
 ---
 
@@ -46,6 +48,12 @@ Here are some badges I earned for learning, building, and contributing consisten
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+
 
 ---
 
@@ -70,4 +78,4 @@ Here are some badges I earned for learning, building, and contributing consisten
 
 ---
 
-✨ *“Let’s build something impactful together!”*
+✨ *“✨ *“Let’s build something impactful together – in code, data, and product!”*
