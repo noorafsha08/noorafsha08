@@ -27,7 +27,7 @@ Here are some badges I earned for learning, building, and contributing consisten
 
 | Project | Description |
 | --- | --- |
-| [Silent Help](https://github.com/noorafsha08/silent-help) | Voice-activated women’s safety app with offline SOS alerts |
+| [Silent Help](https://github.com/noorafsha08/silent_help) | Voice-activated women’s safety app with offline SOS alerts |
 | [Weather Dashboard](https://github.com/noorafsha08/Weather-Dashboard) | Real-time weather app using OpenWeatherMap API |
 | [Sorting Visualizer](https://github.com/noorafsha08/Sorting-Algorithm-Visualizer) | Visual tool to understand sorting algorithms interactively |
 
