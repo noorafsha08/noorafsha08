@@ -64,9 +64,9 @@ Here are some badges I earned for learning, building, and contributing consisten
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noor-afsha-06612a216/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify&logoColor=white)](https://noorafsha08.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/noorafsha08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noor-afsha-06612a216/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=netlify&logoColor=white)](https://noorafsha08.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/noorafsha08)
 
 ---
 
