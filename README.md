@@ -11,7 +11,7 @@
 ---
 
 ## 👩‍💻 About Me
-
+```text
 ```javascript
 const noor = {
 
@@ -52,7 +52,7 @@ const noor = {
     funFact:
         "I enjoy turning everyday problems into technology ideas ✨"
 };
-
+```text
 ---
 
 ## 🔬 Areas I'm Exploring
