@@ -52,7 +52,6 @@ const noor = {
     funFact:
         "I enjoy turning everyday problems into technology ideas ✨"
 };
-```
 
 ---
 
