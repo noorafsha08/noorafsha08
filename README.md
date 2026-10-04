@@ -23,11 +23,11 @@ const noor = {
     },
 
     interests: [
-        "Computer Science",
         "Artificial Intelligence",
         "Data & Analytics",
         "Software Systems",
         "Cybersecurity & Privacy",
+        "Computer Science",
         "Technology & Product Thinking"
     ],
 
@@ -42,7 +42,6 @@ const noor = {
     ],
 
     technologies: {
-
         data: [
             "Pandas",
             "NumPy",
@@ -83,7 +82,7 @@ const noor = {
     ],
 
     currentFocus:
-        "Building practical technology solutions and strengthening my foundations in Computer Science",
+        "Building practical technology solutions and strengthening my Computer Science foundations",
 
     philosophy:
         "Understand the problem first. Then build the solution.",
