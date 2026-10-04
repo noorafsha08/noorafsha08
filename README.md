@@ -2,7 +2,6 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hello there!
 
-![profile views](https://komarev.com/ghpvc/?username=noorafsha08\&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/noorafsha08?label=Follow\&style=social)](https://github.com/noorafsha08) 
 ![GitHub User's stars](https://img.shields.io/github/stars/noorafsha08?style=social)
 
