@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**noorafsha08/noorafsha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Noor Afsha
 
-Here are some ideas to get you started:
+### Computer Science Graduate • M.Tech CSE • Data • AI • Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=noorafsha08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+```javascript
+const noor = {
+
+    name: "Noor Afsha",
+    location: "Kolkata, India 🇮🇳",
+
+    education: {
+        degree: "B.Tech in Computer Science & Engineering",
+        current: "M.Tech in Computer Science & Engineering",
+        cgpa: "8.61 / 10"
+    },
+
+    interests: [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Data & Analytics",
+        "Software Systems",
+        "Cybersecurity & Privacy",
+        "Technology & Product Thinking"
+    ],
+
+    languages: [
+        "Python",
+        "Java",
+        "C",
+        "JavaScript",
+        "Dart",
+        "Kotlin",
+        "SQL"
+    ],
+
+    technologies: {
+
+        data: [
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Power BI",
+            "Excel"
+        ],
+
+        development: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Flutter",
+            "Firebase"
+        ],
+
+        databases: [
+            "MySQL",
+            "Oracle",
+            "MongoDB"
+        ],
+
+        tools: [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Android Studio",
+            "Linux"
+        ]
+    },
+
+    currentlyLearning: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis",
+        "Algorithms & Problem Solving",
+        "Research Methodology"
+    ],
+
+    currentFocus:
+        "Building practical technology solutions and strengthening my foundations in Computer Science",
+
+    philosophy:
+        "Understand the problem first. Then build the solution.",
+
+    funFact:
+        "I enjoy turning everyday problems into technology ideas ✨"
+};
