@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Noor Afsha
 
-### Computer Science Graduate • M.Tech CSE • Data • AI • Technology
+### Computer Science Graduate • M.Tech CSE • AI • Data • Systems
 
 <img src="https://komarev.com/ghpvc/?username=noorafsha08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
@@ -10,8 +10,6 @@
 
 ---
 
-## 👩‍💻 About Me
-```text
 ```javascript
 const noor = {
 
@@ -19,7 +17,7 @@ const noor = {
     location: "Kolkata, India 🇮🇳",
 
     education: {
-        degree: "B.Tech in Computer Science & Engineering",
+        undergraduate: "B.Tech in Computer Science & Engineering",
         current: "M.Tech in Computer Science & Engineering",
         cgpa: "8.61 / 10"
     },
@@ -29,8 +27,8 @@ const noor = {
         "Data & Analytics",
         "Software Systems",
         "Cybersecurity & Privacy",
-        "Computer Science",
-        "Technology & Product Thinking"
+        "Algorithms & Problem Solving",
+        "Human-Centred Technology"
     ],
 
     languages: [
@@ -44,142 +42,244 @@ const noor = {
     ],
 
     currentFocus:
-        "Building practical technology solutions and strengthening my Computer Science foundations",
+        "Understanding how computer science can be applied to real-world problems",
+
+    currentlyExploring: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis",
+        "Cybersecurity & Privacy",
+        "Research Methodology"
+    ],
 
     philosophy:
         "Understand the problem first. Then build the solution.",
 
     funFact:
-        "I enjoy turning everyday problems into technology ideas ✨"
+        "I like turning everyday problems into technology ideas ✨"
 };
+```
+
+## 🔬 What I'm Exploring
+
+My current academic direction sits around **Computer Science, intelligent systems, data, security and real-world problem solving**.
+
+I'm particularly interested in questions such as:
+
+* How can intelligent systems make decisions more useful and reliable?
+* How can data be transformed into meaningful insights?
+* How can technology be designed around real human needs?
+* How can software systems remain useful, secure and privacy-aware?
+* How can everyday problems be translated into well-defined computational problems?
+
+As I continue my M.Tech journey, I am interested in developing these questions into **research problems, experiments and practical systems**.
+
+---
+
+## 🧠 Research Direction
+
 ```text
----
+Real-world problem
+        ↓
+Understand the problem
+        ↓
+Define the computational challenge
+        ↓
+Explore existing approaches
+        ↓
+Design a possible solution
+        ↓
+Build / Experiment
+        ↓
+Evaluate
+        ↓
+Learn → Improve → Repeat
+```
 
-## 🔬 Areas I'm Exploring
+My goal is not simply to use technology because it is new.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analysis & Visualisation
-- 💻 Software Systems
-- 🧠 Algorithms & Problem Solving
-- 🗄️ Databases & Data Management
-- 🔐 Cybersecurity & Privacy
-- 👩‍💻 Human-Centred Technology
-- 🚀 Technology & Product Thinking
-
----
-
-## 🚀 Featured Projects
-
-### 🆘 Silent Help
-
-A women’s safety application designed around rapid emergency assistance, SOS functionality and location-based services.
-
-**Technologies:** Flutter • Dart • Kotlin • Firebase • Google Maps API
+I want to understand **why a particular approach works, where it fails, and how it can be improved**.
 
 ---
 
-### 📊 Netflix Data Analysis
+## 🌱 Current Academic Focus
 
-Analysis of the Netflix dataset to explore content patterns and trends using Python-based data processing and visualisation.
+### 🤖 Artificial Intelligence
 
-**Technologies:** Python • Pandas • Matplotlib • Jupyter Notebook
+Exploring how AI and machine learning can be applied to practical problems, with an interest in understanding both the underlying concepts and their real-world applications.
 
----
+### 📊 Data & Analytics
 
-### 🌦️ Weather Dashboard
+Working with data to identify patterns, generate insights and support better decisions.
 
-A web application that retrieves real-time weather information using the OpenWeatherMap API.
+### 🔐 Cybersecurity & Privacy
 
-**Technologies:** HTML • CSS • JavaScript • OpenWeatherMap API
+Interested in how systems can be designed with security, privacy and responsible technology use in mind.
 
----
+### 💻 Computer Science Foundations
 
-### 🔄 Sorting Algorithm Visualizer
+Continuing to strengthen my understanding of:
 
-An interactive visualisation tool that demonstrates sorting algorithms and makes algorithmic behaviour easier to understand.
-
-**Technologies:** JavaScript • HTML • CSS
-
----
-
-### 🧠 NeuroScribe
-
-A JavaScript-based project exploring a practical technology solution through an interactive web application.
-
-**Technologies:** JavaScript • HTML • CSS
+* Algorithms
+* Data Structures
+* Databases
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* Artificial Intelligence
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Languages
 
-### 💻 Programming
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,dart,kotlin" alt="Programming Languages">
-</p>
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter" alt="Development Technologies">
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,firebase" alt="Tools">
-</p>
+* **Python**
+* **Java**
+* **C**
+* **JavaScript**
+* **Dart**
+* **Kotlin**
+* **SQL**
 
 ---
 
-## 📊 Data & Analytics
+## 🛠️ Technologies & Tools
 
-<p align="center">
+### Data & Analytics
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Power BI
+* Microsoft Excel
+* SQL
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+### Artificial Intelligence / ML
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+* Python
+* Pandas
+* NumPy
+* scikit-learn
+* TensorFlow
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+### Web Development
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+### Application Development
 
-</p>
+* Flutter
+* Dart
+* Kotlin
+* Firebase
+
+### Databases
+
+* MySQL
+* Oracle
+* MongoDB
+
+### Development & Engineering Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Android Studio
+* Linux
+* Windows
+
+---
+
+## 📚 Learning & Building
+
+I learn by moving between three things:
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+QUESTION
+  ↓
+RESEARCH
+  ↓
+BUILD BETTER
+```
+
+Some of the areas I've worked with include:
+
+* Data analysis
+* Web applications
+* Mobile applications
+* APIs
+* Databases
+* Algorithms
+* Cybersecurity
+* AI fundamentals
+* Data visualisation
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 **State-Level Winner — ISEA National Cyber Awareness Competition 2025**
-- 🥇 **HackerRank Problem Solving — Gold**
-- ⭐ **GeeksforGeeks — 4 Star**
-- 🏆 **Naukri Campus Young Turks — Merit**
+* 🏅 **State-Level Winner — ISEA National Cyber Awareness Competition 2025**
+* 🥇 **HackerRank Problem Solving — Gold**
+* ⭐ **GeeksforGeeks — 4 Star**
+* 🏆 **Naukri Campus Young Turks — Merit**
 
 ---
 
-## 🏅 Holopin Badges
+## 📜 Certifications & Learning
+
+* Google Cybersecurity Professional Certificate
+* Google AI Essentials
+* Oracle Cloud Infrastructure — AI Foundations
+* Microsoft Azure Fundamentals
+* IBM SkillsBuild — Data Visualization using AI
+* Cisco — Introduction to Cybersecurity
+* Tata Cybersecurity Analyst Job Simulation — Forage
+* Investment Risk Management
+* HackerRank SQL — Basic & Intermediate
+* HackerRank Software Engineering
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-9dba0b8d1a0c.png" alt="Pull Shark">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/noorafsha08?label=Followers&style=flat">
+<img src="https://img.shields.io/github/stars/noorafsha08?label=Stars&style=flat">
+
+</p>
+
+---
+
+## 🎖️ Holopin
 
 <p align="center">
 
 <a href="https://holopin.io/@noorafsha08">
-<img src="https://holopin.me/noorafsha08" alt="Noor Afsha's Holopin Badges">
+<img src="https://holopin.me/noorafsha08" alt="Noor Afsha's Holopin badges">
 </a>
 
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
 
@@ -195,42 +295,32 @@ A JavaScript-based project exploring a practical technology solution through an 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=noorafsha08&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=noorafsha08&hide_border=true" alt="GitHub Contribution Streak">
 
 </p>
 
 ---
 
-## 💡 How I Think
+## 💭 How I Think
 
 > **Understand the problem before choosing the technology.**
 
-I enjoy learning how technology works, understanding the problem it can solve, and building practical solutions around it.
+Technology is only useful when it solves the right problem.
+
+I'm interested in the space between **understanding a problem, investigating it through data and computer science, and building something that can actually help**.
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-FF6F00?style=for-the-badge" alt="Artificial Intelligence">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-102230?style=for-the-badge" alt="Machine Learning">
-
-<img src="https://img.shields.io/badge/Data%20Analysis-Learning-217346?style=for-the-badge" alt="Data Analysis">
-
-<img src="https://img.shields.io/badge/Research%20Methodology-Learning-6C63FF?style=for-the-badge" alt="Research Methodology">
-
-</p>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/noorafsha08/">
 <img src="https://img.shields.io/badge/LinkedIn-Noor%20Afsha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/noorafsha08">
+<img src="https://img.shields.io/badge/GitHub-noorafsha08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://noorafsha.io/">
@@ -243,6 +333,6 @@ I enjoy learning how technology works, understanding the problem it can solve, a
 
 <div align="center">
 
-### 🚀 Code. Learn. Share. Repeat.
+### 🚀 Learn • Build • Question • Improve
 
 </div>
