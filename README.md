@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<pre>
+```javascript
 const noor = {
 
     name: "Noor Afsha",
@@ -52,7 +52,7 @@ const noor = {
     funFact:
         "I enjoy turning everyday problems into technology ideas ✨"
 };
-</pre>
+```
 
 ---
 
