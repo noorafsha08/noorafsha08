@@ -1,241 +1,120 @@
 <div align="center">
 
-# 👋 Hi, I'm Noor Afsha
-
-### Computer Science Graduate • M.Tech CSE • AI • Data • Systems
-
-<img src="https://komarev.com/ghpvc/?username=noorafsha08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif" alt="Banner">
 
 </div>
 
----
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hello there!
 
-```javascript
-const noor = {
+![profile views](https://komarev.com/ghpvc/?username=noorafsha08\&color=blue) 
+[![GitHub followers](https://img.shields.io/github/followers/noorafsha08?label=Follow\&style=social)](https://github.com/noorafsha08) 
+![GitHub User's stars](https://img.shields.io/github/stars/noorafsha08?style=social)
 
-    name: "Noor Afsha",
-    location: "Kolkata, India 🇮🇳",
+<br>
 
-    education: {
-        undergraduate: "B.Tech in Computer Science & Engineering",
-        current: "M.Tech in Computer Science & Engineering",
-        cgpa: "8.61 / 10"
-    },
+### 👩🏻‍💻  About Me
 
-    interests: [
-        "Artificial Intelligence",
-        "Data & Analytics",
-        "Software Systems",
-        "Cybersecurity & Privacy",
-        "Algorithms & Problem Solving",
-        "Human-Centred Technology"
-    ],
+💡   I'm a Computer Science graduate currently pursuing an **M.Tech in Computer Science & Engineering**.
 
-    languages: [
-        "Python",
-        "Java",
-        "C",
-        "JavaScript",
-        "Dart",
-        "Kotlin",
-        "SQL"
-    ],
+🎓   I completed my **B.Tech in Computer Science & Engineering with a CGPA of 8.61/10**.
 
-    currentFocus:
-        "Understanding how computer science can be applied to real-world problems",
+🔬   I'm interested in **Artificial Intelligence, Data & Analytics, Software Systems, Cybersecurity and Privacy**.
 
-    currentlyExploring: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Analysis",
-        "Cybersecurity & Privacy",
-        "Research Methodology"
-    ],
+🧠   I'm particularly interested in understanding how computational methods can be applied to **real-world problems**.
 
-    philosophy:
-        "Understand the problem first. Then build the solution.",
+🌱   I'm currently strengthening my foundations in **Artificial Intelligence, Machine Learning, Algorithms, Data Analysis and Research Methodology**.
 
-    funFact:
-        "I like turning everyday problems into technology ideas ✨"
-};
-```
+📊   I enjoy working with data to identify patterns, generate insights and understand problems from different perspectives.
 
-## 🔬 What I'm Exploring
+💻   My development experience includes **web applications, mobile applications, databases and API-based systems**.
 
-My current academic direction sits around **Computer Science, intelligent systems, data, security and real-world problem solving**.
+🔐   My interest in cybersecurity began through projects and learning around **security awareness, privacy and secure technology**.
 
-I'm particularly interested in questions such as:
+✨   I like turning everyday problems into technology ideas and then exploring how they can be solved computationally.
 
-* How can intelligent systems make decisions more useful and reliable?
-* How can data be transformed into meaningful insights?
-* How can technology be designed around real human needs?
-* How can software systems remain useful, secure and privacy-aware?
-* How can everyday problems be translated into well-defined computational problems?
-
-As I continue my M.Tech journey, I am interested in developing these questions into **research problems, experiments and practical systems**.
+📍   Based in **Kolkata, India**.
 
 ---
 
-## 🧠 Research Direction
+### 🔬  Research & Areas of Interest
 
-```text
-Real-world problem
-        ↓
-Understand the problem
-        ↓
-Define the computational challenge
-        ↓
-Explore existing approaches
-        ↓
-Design a possible solution
-        ↓
-Build / Experiment
-        ↓
-Evaluate
-        ↓
-Learn → Improve → Repeat
-```
+I'm currently exploring the intersection of:
 
-My goal is not simply to use technology because it is new.
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 📊 **Data Analysis & Intelligent Systems**
+* 💻 **Software Systems**
+* 🔐 **Cybersecurity & Privacy**
+* 🧠 **Algorithms & Problem Solving**
+* 👩🏻‍💻 **Human-Centred Technology**
 
-I want to understand **why a particular approach works, where it fails, and how it can be improved**.
+I'm especially interested in questions around:
+
+> **How can computer science and intelligent technologies be used to understand, solve and improve real-world problems?**
+
+As I continue my M.Tech journey, I want to develop this interest into **well-defined research questions, experiments and practical systems**.
 
 ---
 
-## 🌱 Current Academic Focus
+### 🛠  Tech Stack
 
-### 🤖 Artificial Intelligence
+#### 💻 Programming Languages
 
-Exploring how AI and machine learning can be applied to practical problems, with an interest in understanding both the underlying concepts and their real-world applications.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=java\&logoColor=FFA518) 
+![C](https://img.shields.io/badge/-C-05122A?style=flat\&logo=c\&logoColor=A8B9CC) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat\&logo=dart\&logoColor=0175C2) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat\&logo=kotlin\&logoColor=7F52FF) 
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat\&logo=mysql\&logoColor=4479A1) 
 
-### 📊 Data & Analytics
+#### 🌐 Web & Application Development
 
-Working with data to identify patterns, generate insights and support better decisions.
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3\&logoColor=1572B6) 
+![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react\&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js\&logoColor=339933) 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat\&logo=flutter\&logoColor=02569B) 
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat\&logo=firebase\&logoColor=FFCA28) 
 
-### 🔐 Cybersecurity & Privacy
+#### 📊 Data & AI
 
-Interested in how systems can be designed with security, privacy and responsible technology use in mind.
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat\&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat\&logo=numpy\&logoColor=013243) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat\&logo=matplotlib) 
+![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat\&logo=scikit-learn\&logoColor=F7931E) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat\&logo=tensorflow\&logoColor=FF6F00) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat\&logo=powerbi\&logoColor=F2C811) 
+![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat\&logo=microsoft-excel\&logoColor=217346) 
 
-### 💻 Computer Science Foundations
+#### 🗄️ Databases
 
-Continuing to strengthen my understanding of:
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat\&logo=mysql\&logoColor=4479A1) 
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat\&logo=oracle\&logoColor=F80000) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat\&logo=mongodb\&logoColor=47A248) 
 
-* Algorithms
-* Data Structures
-* Databases
-* Operating Systems
-* Computer Networks
-* Software Engineering
-* Artificial Intelligence
+#### 🔧 Tools & Platforms
 
----
-
-## 💻 Languages
-
-### Programming Languages
-
-* **Python**
-* **Java**
-* **C**
-* **JavaScript**
-* **Dart**
-* **Kotlin**
-* **SQL**
-
----
-
-## 🛠️ Technologies & Tools
-
-### Data & Analytics
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Power BI
-* Microsoft Excel
-* SQL
-
-### Artificial Intelligence / ML
-
-* Python
-* Pandas
-* NumPy
-* scikit-learn
-* TensorFlow
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-* React
-* Node.js
-
-### Application Development
-
-* Flutter
-* Dart
-* Kotlin
-* Firebase
-
-### Databases
-
-* MySQL
-* Oracle
-* MongoDB
-
-### Development & Engineering Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* Android Studio
-* Linux
-* Windows
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visual-studio-code\&logoColor=007ACC) 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat\&logo=android-studio\&logoColor=3DDC84) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat\&logo=linux\&logoColor=FCC624) 
 
 ---
 
-## 📚 Learning & Building
+### 🏆  Achievements
 
-I learn by moving between three things:
+🏅   **State-Level Winner — ISEA National Cyber Awareness Competition 2025**
 
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-QUESTION
-  ↓
-RESEARCH
-  ↓
-BUILD BETTER
-```
+🥇   **HackerRank Problem Solving — Gold**
 
-Some of the areas I've worked with include:
+⭐   **GeeksforGeeks — 4 Star**
 
-* Data analysis
-* Web applications
-* Mobile applications
-* APIs
-* Databases
-* Algorithms
-* Cybersecurity
-* AI fundamentals
-* Data visualisation
+🏆   **Naukri Campus Young Turks — Merit**
 
 ---
 
-## 🏆 Achievements
-
-* 🏅 **State-Level Winner — ISEA National Cyber Awareness Competition 2025**
-* 🥇 **HackerRank Problem Solving — Gold**
-* ⭐ **GeeksforGeeks — 4 Star**
-* 🏆 **Naukri Campus Young Turks — Merit**
-
----
-
-## 📜 Certifications & Learning
+### 📜  Certifications & Learning
 
 * Google Cybersecurity Professional Certificate
 * Google AI Essentials
@@ -250,36 +129,29 @@ Some of the areas I've worked with include:
 
 ---
 
-## 🏅 GitHub Achievements
+### 🏅  GitHub Achievements
 
-<p align="center">
+<p align="left">
 
 <img src="https://github.githubassets.com/assets/pull-shark-default-9dba0b8d1a0c.png" alt="Pull Shark">
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/noorafsha08?label=Followers&style=flat">
-<img src="https://img.shields.io/github/stars/noorafsha08?label=Stars&style=flat">
-
-</p>
-
 ---
 
-## 🎖️ Holopin
+### 🪄  Holopin Badges
 
-<p align="center">
+<p align="left">
 
 <a href="https://holopin.io/@noorafsha08">
-<img src="https://holopin.me/noorafsha08" alt="Noor Afsha's Holopin badges">
+<img src="https://holopin.me/noorafsha08" alt="Noor Afsha Holopin Badges">
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Activity
+### 📊  GitHub Stats
 
 <p align="center">
 
@@ -291,43 +163,21 @@ Some of the areas I've worked with include:
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=noorafsha08&hide_border=true" alt="GitHub Contribution Streak">
-
-</p>
-
----
-
-## 💭 How I Think
-
-> **Understand the problem before choosing the technology.**
-
-Technology is only useful when it solves the right problem.
-
-I'm interested in the space between **understanding a problem, investigating it through data and computer science, and building something that can actually help**.
-
----
-
-## 🌐 Connect
-
-<p align="center">
+### 📫  How to reach me
 
 <a href="https://www.linkedin.com/in/noorafsha08/">
-<img src="https://img.shields.io/badge/LinkedIn-Noor%20Afsha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 
 <a href="https://github.com/noorafsha08">
-<img src="https://img.shields.io/badge/GitHub-noorafsha08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 
 <a href="https://noorafsha.io/">
-<img src="https://img.shields.io/badge/Portfolio-noorafsha.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
